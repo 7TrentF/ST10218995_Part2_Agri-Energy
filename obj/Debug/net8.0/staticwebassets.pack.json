@@ -1,0 +1,457 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AgriEnergySolution.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AgriEnergySolution.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\icon\\1.png",
+      "PackagePath": "staticwebassets\\icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\icon\\2.png",
+      "PackagePath": "staticwebassets\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\icon\\3.png",
+      "PackagePath": "staticwebassets\\icon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\icon\\call.png",
+      "PackagePath": "staticwebassets\\icon\\call.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\icon\\call1.png",
+      "PackagePath": "staticwebassets\\icon\\call1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\icon\\email.png",
+      "PackagePath": "staticwebassets\\icon\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\icon\\email1.png",
+      "PackagePath": "staticwebassets\\icon\\email1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\icon\\loc.png",
+      "PackagePath": "staticwebassets\\icon\\loc.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\icon\\loc1.png",
+      "PackagePath": "staticwebassets\\icon\\loc1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\icon\\wfe4.png",
+      "PackagePath": "staticwebassets\\icon\\wfe4.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\about.png",
+      "PackagePath": "staticwebassets\\images\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\bg1.png",
+      "PackagePath": "staticwebassets\\images\\bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\offer1.png",
+      "PackagePath": "staticwebassets\\images\\offer1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\offer2.png",
+      "PackagePath": "staticwebassets\\images\\offer2.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\offer3.png",
+      "PackagePath": "staticwebassets\\images\\offer3.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\product_img1.jpg",
+      "PackagePath": "staticwebassets\\images\\product_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\product_img2.jpg",
+      "PackagePath": "staticwebassets\\images\\product_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\product_img3.jpg",
+      "PackagePath": "staticwebassets\\images\\product_img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\product_img4.jpg",
+      "PackagePath": "staticwebassets\\images\\product_img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\product_img5.jpg",
+      "PackagePath": "staticwebassets\\images\\product_img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\search_icon.png",
+      "PackagePath": "staticwebassets\\images\\search_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\images\\tes.jpg",
+      "PackagePath": "staticwebassets\\images\\tes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Desktop\\School\\Subjects\\PROG7311\\POE\\AgriEnergySolution\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AgriEnergySolution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AgriEnergySolution.props",
+      "PackagePath": "build\\AgriEnergySolution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AgriEnergySolution.props",
+      "PackagePath": "buildMultiTargeting\\AgriEnergySolution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AgriEnergySolution.props",
+      "PackagePath": "buildTransitive\\AgriEnergySolution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

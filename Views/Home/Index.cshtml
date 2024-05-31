@@ -1,0 +1,112 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+<div class="text-center">
+    <h1 class="display-4 mb-4">Welcome to Agri-Energy Connect</h1>
+
+
+    <p> 
+        In response to the growing need for sustainable agricultural practices and the integration of green
+        energy solutions in South Africa, a visionary initiative named “Agri-Energy Connect” has been
+        conceptualised. This initiative seeks to develop an innovative web platform that bridges the gap
+        between the agricultural sector and green energy technology providers.
+    </p>
+   
+    <div class="row justify-content-center">
+        <div class="col-md-3 mb-4 ml-5">
+            <!-- Adjusted margin -->
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Products</h5>
+                    <!-- Icon -->
+                    <i class="fas fa-shopping-cart fa-3x mb-3"></i>
+                    <p class="card-text">View and manage Products.</p>
+                    <p class="card-text">(Employees only)</p>
+                    <a asp-controller="Products" asp-action="Index" class="btn btn-primary">View Products</a>
+                </div>
+            </div>
+            <p>
+                <h3>Products </h3>
+
+                Manage all the products that have been added to our system.
+                View the details of each product including their Name, Category, and, Production Date.
+                As well as the option to filter each Product by Production Date, Name, and Category.
+            </p>
+        </div>
+
+       
+
+        <div class="col-md-3 mb-2">
+            <!-- Adjusted margin -->
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Farmers</h5>
+                    <!-- Icon -->
+                    <i class="fas fa-tractor fa-3x mb-3"></i>
+
+                    <p class="card-text">View and manage Farmers.</p>
+                    <p class="card-text">(Employees only)</p>
+                    <a asp-controller="Employee" asp-action="Index" class="btn btn-primary">View Farmers</a>
+                </div>
+            </div>
+            <p>
+                <h3>Farmers </h3>
+
+                Manage all the profiles of the Farmer that have been added to our system and
+                add new Farmers to the system.
+                
+            </p>
+        </div>
+
+        <div class="col-md-3 mb-2">
+            <!-- Adjusted margin -->
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Employees</h5>
+                    <!-- Icon -->
+                    <i class="fas fa-users fa-3x mb-3"></i>
+                    <p class="card-text">View and manage Employees.</p>
+                    <p class="card-text">(Employees only)</p>
+                    <a asp-controller="EmployeeProfile" asp-action="Index" class="btn btn-primary">View Employees</a>
+                </div>
+                
+            </div>
+            <p>
+                <h3>Employees </h3>
+
+                Manage all the profiles of the Employees that have been added to our system and
+                add new Employees to the system.
+
+            </p>
+        </div>
+
+        <div class="col-md-3 mb-2">
+            <!-- Adjusted margin -->
+            <div class="card" style="width: 20rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Add Products</h5>
+                    <!-- Icon -->
+                    <i class="fas fa-box-open fa-3x mb-3"></i>
+                    <i class="fas fa-plus-circle fa-1x mb-3" style="position:relative;top:-20px;left:-10px;"></i>
+
+                    <p class="card-text">Add new products to your profile.</p>
+                    <p class="card-text">(Farmers only)</p>
+                    <a asp-controller="Farmers" asp-action="Index" class="btn btn-primary">Add Products</a>
+                </div>
+
+            </div>
+            <p>
+                <h3>Add Products </h3>
+                Add new products to your profile as well as manage the products already added to your
+                Profile.
+            </p>
+        </div>
+
+    </div>
+
+
+</div>
+       

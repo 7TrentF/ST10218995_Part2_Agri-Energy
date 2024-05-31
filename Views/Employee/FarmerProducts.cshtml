@@ -1,0 +1,50 @@
+﻿@model IEnumerable<AgriEnergySolution.Models.Products>
+
+@{
+    ViewData["Title"] = "Farmer Products";
+}
+
+<h1>Farmer Products</h1>
+
+@if (!Model.Any())
+{
+    <p>No products have been added to this profile yet.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().ProductName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().ProductCategory)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().ProductionDate)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductCategory)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductionDate)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

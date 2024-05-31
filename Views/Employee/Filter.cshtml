@@ -1,0 +1,65 @@
+﻿@model IEnumerable<AgriEnergySolution.Models.Products>
+
+@{
+    ViewData["Title"] = "List of Products";
+}
+
+<h1>Products</h1>
+
+<!-- Search Form -->
+<form asp-action="Filter" method="get">
+    <p>
+        Search by Nanme or Category: <input type="text" name="searchString" />
+       
+    </p>
+    <div class="form-group mb-2">
+        <label for="startDate" class="sr-only">Start Date</label>
+        <input type="date" name="startDate" class="form-control" id="startDate" />
+    </div>
+
+    <div class="form-group mb-2">
+        <label for="endDate" class="sr-only">End Date</label>
+        <input type="date" name="endDate" class="form-control" id="endDate" />
+    </div>
+    
+   
+    <div class="form-group">
+        <input type="submit" value="Filter" class="btn btn-primary" />
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductCategory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductionDate)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductCategory)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductionDate)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
